@@ -158,6 +158,7 @@ body {
 }
 
 .sectionDark-2nd {
+    background-color: rgb(169, 169, 170);
     padding: 20px 0;
 }
 
@@ -178,5 +179,36 @@ body {
 }
 
 .modal-title {
+    margin: auto;
+}
+
+
+/* ========= Footer ========= */
+
+.footer {
+    padding: 30px 0 40px 25px;
+}
+
+.footerImage {
+    margin-left: 100px !important;
+}
+
+.fa {
+    margin: 25px 10px 10px;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: white;
+}
+
+.socialWrapper {
     margin: auto;
 }
