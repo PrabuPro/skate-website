@@ -141,13 +141,36 @@ body {
     padding: 2rem;
 }
 
-.col-sm-12>.btn {
+.col-sm-12>.coolStuffBtn {
     margin: 20px 0;
 }
 
 .btn {
     border-radius: 0rem;
 }
+
+
+/* ========= Section Light - 2nd ========= */
+
+.imageCenter {
+    display: block;
+    margin: auto;
+}
+
+.sectionDark-2nd {
+    padding: 20px 0;
+}
+
+.sectionDark-2-btn {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+
+/* ========= Model ========= */
 
 .modelLogo {
     display: block;
